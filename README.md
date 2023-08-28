@@ -14,7 +14,7 @@
 * **README.md** & **README.txt**: manual with instructions.
 
 
-# Program Requirenments
+# Program Requirements
 
 ## Operating system
 
@@ -36,7 +36,7 @@ link: https://www.psychopy.org/
 
 **REMARK: You have to run the program in this order!**
 
-1. Run OpenViBE acquisition server. If you want to just to test the codes, please run the server as 'generic oscillator' mode.
+1. Run OpenViBE acquisition server. If you want to just test the codes, please run the server in 'generic oscillator' mode.
 
 2. Run DEMO.xml in OpenViBE designer. This is the OpenViBE scenario intended to run under 'generic oscillator' signals. If you want to run with real EEG signals, you have to use another scenario file in this step.
 
@@ -63,7 +63,7 @@ link: https://www.psychopy.org/
 
 # EEG file description
 
-  From this movement detection, you can see the event markers that recorded the detected movements. These movements are described as (Note: left/right is participant's left/right):
+  You can see the event markers that recorded the detected movements from this movement detection. These movements are described as (Note: left/right is participant's left/right):
 	
 * Eye blinking: 11 (eye close), 111 (eye open)
 
@@ -86,6 +86,8 @@ link: https://www.psychopy.org/
 
 2. If there are multiple movement observations for eye movement, this is intended. We observed physiological artifacts in EEG for relatively small eye movements, thus we made eye movement detection more sensitive.
 
+# Related papers
+* S. Kang, K. Won, H. Kim, J. Baek, M. Ahn, and S.C. Jun, “Achieving effective artifact subspace reconstruction in EEG using real-time video-based artifact identification”, IEEE International Conference on Systems, Man, and Cybernetics (SMC) 2023, Oct. 2023. (accepted)
 
 # References
 * C. Lugaresi, J. Tang, H. Nash, C. McClanahan, E. Uboweja, M. Hays, F. Zhang, C. L. Chang, M. Yong, J. Lee, W.T. Chang, W. Hua, M. Georg, and M. Grundmann, “Mediapipe: A framework for perceiving and processing reality”, Third Workshop on Computer Vision for AR/VR at IEEE Computer Vision and Pattern Recognition (CVPR), Long Beach, CA, USA, 2019, vol. 2019.
