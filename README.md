@@ -2,6 +2,7 @@
 
   This program aims to detect the physiological artifacts via video information in real-time and marks those artifacts' source and their time in EEG data (e.g., gdf, edf, etc.). Information transition happens via TCP/IP connections. Also, current software can detect five movements, which are eye blinking, eye horizontal & vertical movement, jaw movement, and head movement.
 
+<br>
 
 # File list
 
@@ -13,6 +14,7 @@
 
 * **README.md** & **README.txt**: manual with instructions.
 
+<br>
 
 # Program Requirements
 
@@ -79,6 +81,7 @@ link: https://www.psychopy.org/
 
 * Head roll movement: 71 (move), 171 (stop)
 
+<br>
 
 # TroubleShoot
 
@@ -86,8 +89,12 @@ link: https://www.psychopy.org/
 
 2. If there are multiple movement observations for eye movement, this is intended. We observed physiological artifacts in EEG for relatively small eye movements, thus we made eye movement detection more sensitive.
 
+<br>
+
 # Related papers
 * S. Kang, K. Won, H. Kim, J. Baek, M. Ahn, and S.C. Jun, “Achieving effective artifact subspace reconstruction in EEG using real-time video-based artifact identification”, IEEE International Conference on Systems, Man, and Cybernetics (SMC) 2023, Oct. 2023. (accepted)
+
+<br>
 
 # References
 * C. Lugaresi, J. Tang, H. Nash, C. McClanahan, E. Uboweja, M. Hays, F. Zhang, C. L. Chang, M. Yong, J. Lee, W.T. Chang, W. Hua, M. Georg, and M. Grundmann, “Mediapipe: A framework for perceiving and processing reality”, Third Workshop on Computer Vision for AR/VR at IEEE Computer Vision and Pattern Recognition (CVPR), Long Beach, CA, USA, 2019, vol. 2019.
