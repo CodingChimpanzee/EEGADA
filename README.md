@@ -1,3 +1,5 @@
+# EEGADA: EEG Automated Detector for Artifacts 
+
 # Program explanation
 
   This program aims to detect the physiological artifacts via video information in real-time and marks those artifacts' source and their time in EEG data (e.g., gdf, edf, etc.). Information transition happens via TCP/IP connections. Also, current software can detect five movements, which are eye blinking, eye horizontal & vertical movement, jaw movement, and head movement.
