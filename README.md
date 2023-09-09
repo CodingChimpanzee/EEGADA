@@ -94,7 +94,7 @@ link: https://www.psychopy.org/
 <br>
 
 # Related papers
-* S. Kang, K. Won, H. Kim, J. Baek, M. Ahn, and S.C. Jun, “Achieving effective artifact subspace reconstruction in EEG using real-time video-based artifact identification”, IEEE International Conference on Systems, Man, and Cybernetics (SMC) 2023, Oct. 2023. (accepted)
+* S. Kang, K. Won, H. Kim, J. Baek, M. Ahn, and S.C. Jun, “Achieving effective artifact subspace reconstruction in EEG using real-time video-based artifact identification”, IEEE International Conference on Systems, Man, and Cybernetics (SMC) 2023, Oct. 2023. (accepted, oral presentation)
 
 <br>
 
