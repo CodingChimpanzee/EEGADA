@@ -98,6 +98,11 @@ link: https://www.psychopy.org/
 
 <br>
 
+# Copyrights
+This software is registered with the Korea Copyright Commission (C-2023-041615). This software can be utilized for academic purposes.
+
+<br>
+
 # References
 * C. Lugaresi, J. Tang, H. Nash, C. McClanahan, E. Uboweja, M. Hays, F. Zhang, C. L. Chang, M. Yong, J. Lee, W.T. Chang, W. Hua, M. Georg, and M. Grundmann, “Mediapipe: A framework for perceiving and processing reality”, Third Workshop on Computer Vision for AR/VR at IEEE Computer Vision and Pattern Recognition (CVPR), Long Beach, CA, USA, 2019, vol. 2019.
 * Y. Renard, F. Lotte, G. Gibert, M. Congedo, E. Maby, V. Delannoy, O. Bertrand, and A. Lécuyer, “Openvibe: An open-source software platform to design, test, and use brain–computer interfaces in real and virtual environments”, Presence, vol. 19, no. 1, pp. 35-53, 2010.
