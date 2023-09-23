@@ -4,7 +4,7 @@
 
   This program aims to detect the physiological artifacts via video information in real-time and marks those artifacts' source and their time in EEG data (e.g., gdf, edf, etc.). Information transition happens via TCP/IP connections. Also, current software can detect five movements: eye blinking, eye horizontal & vertical movement, jaw movement, and head movement.
 
-  Note that this framework was named after Ada Lovelace, who was a brilliant mathematician and computer scientist ([link](https://en.wikipedia.org/wiki/Ada_Lovelace)).
+  Note that this framework was named after [Ada Lovelace](https://en.wikipedia.org/wiki/Ada_Lovelace), who was a brilliant mathematician and computer scientist.
 
 <br>
 
